@@ -1,0 +1,1 @@
+Support Vector Regression (SVR) model to predict app ratings using BERT embeddings as feature vectors, applying Scikit Learn for regression analysis. Takes in a raw review and outputs the predicted score out of 5 the user gave it.
